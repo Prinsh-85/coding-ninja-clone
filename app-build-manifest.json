@@ -1,0 +1,35 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/[root-of-the-server]__e0ea8f63._.css",
+      "static/chunks/cb8c2_next_dist_1d449ed6._.js",
+      "static/chunks/Desktop_coding-ninjs-clone_src_app_layout_e99a4da1.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_6f2d0d7a._.js",
+      "static/chunks/cb8c2_next_dist_compiled_react-dom_b7dfc12e._.js",
+      "static/chunks/cb8c2_next_dist_compiled_next-devtools_index_85874f0b.js",
+      "static/chunks/cb8c2_next_dist_compiled_61349729._.js",
+      "static/chunks/cb8c2_next_dist_client_a926fb3d._.js",
+      "static/chunks/cb8c2_next_dist_60eec4e7._.js",
+      "static/chunks/cb8c2_@swc_helpers_cjs_5cfeae28._.js",
+      "static/chunks/Desktop_coding-ninjs-clone_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_coding-ninjs-clone_96fe3d2f._.js"
+    ],
+    "/page": [
+      "static/chunks/[root-of-the-server]__e0ea8f63._.css",
+      "static/chunks/cb8c2_next_dist_1d449ed6._.js",
+      "static/chunks/Desktop_coding-ninjs-clone_src_app_layout_e99a4da1.js",
+      "static/chunks/cb8c2_next_dist_client_components_builtin_global-error_1379d36e.js",
+      "static/chunks/Desktop_coding-ninjs-clone_de16d247._.js",
+      "static/chunks/Desktop_coding-ninjs-clone_src_app_page_1379d36e.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_6f2d0d7a._.js",
+      "static/chunks/cb8c2_next_dist_compiled_react-dom_b7dfc12e._.js",
+      "static/chunks/cb8c2_next_dist_compiled_next-devtools_index_85874f0b.js",
+      "static/chunks/cb8c2_next_dist_compiled_61349729._.js",
+      "static/chunks/cb8c2_next_dist_client_a926fb3d._.js",
+      "static/chunks/cb8c2_next_dist_60eec4e7._.js",
+      "static/chunks/cb8c2_@swc_helpers_cjs_5cfeae28._.js",
+      "static/chunks/Desktop_coding-ninjs-clone_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_coding-ninjs-clone_96fe3d2f._.js"
+    ]
+  }
+}
